@@ -5,7 +5,7 @@
 
 ---
 
-- **Mobile:** +82 10-3051-2701
+- **Mobile:** +82(South Korea) 10-3051-2701 | 010-3051-2701
 - **Email:** [nameonb0507@gmail.com](mailto:nameonb0507@gmail.com)
 - **LinkedIn:** [linkedin.com/in/nameonkim](https://www.linkedin.com/in/nameonkim)
 - **WhatsApp:** [Contact me](https://wa.me/821030512701)

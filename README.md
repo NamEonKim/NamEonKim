@@ -2,6 +2,7 @@
 # NamEon (김남언) Kim
 
 **AI & Enterprise Solutions Architect | On-Premises & Hybrid Cloud Architecture | Full-Stack Engineering | End-to-End IT Delivery | Open to Global Opportunities & Business Partnerships**
+### Knowledge Notes : https://github.com/NamEonKim/engineering-knowledge
 ### 🚀 AIOps Studio (Beta) — Coming Soon
 
 *Infinite Prompting, Managed Locally.*
